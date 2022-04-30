@@ -1,0 +1,26 @@
+messages:
+  server:
+    help:
+      - "&6&lMENU DO DISCORD"
+      - "&r"
+      - "&r"
+      - "&6/discord vincular - &eVincula seu discord"
+      - "&6/discord desvincular - &eDesvincula seu discord"
+    link_message: "&eUtilize /vincular %codigo% em nosso discord, esse código expira em 5 minutos."
+    already_linked: "&eSeu nick já está vinculado."
+    recent_code: "&cAguarde seu código expirar para gerar outro."
+    not_linked: "&cVocê não está vinculado a nenhum discord."
+    success_unlinked: "&cVocê foi desvinculado com sucesso."
+    link_success: "Você foi vinculado com sucesso a %user%."
+  discord:
+    link_success: "Sua conta foi vinculada com sucesso a %nick%."
+    code_not_found: "Código não encontrado."
+    expired: "Código já expirado."
+    already_linked: "Seu discord já está vinculado."
+    not_linked: "Você não está vinculado a nenhum nick."
+    linked_show: "Você está vinculado a %nick%."
+bot:
+  token: "Seu token"
+  status: "Plugin de vinculação do discord feito pela zPluginS"
+time_to_expire: 5 #Em minutos
+debug: false #Mostra dados de debug

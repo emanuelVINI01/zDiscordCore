@@ -1,0 +1,6 @@
+name: zDiscordCore
+load: STARTUP
+main: com.emanuelvini.zdiscordcore.spigot.MainDiscord
+version: 1.1
+commands:
+  discord:
